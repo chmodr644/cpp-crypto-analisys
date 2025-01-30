@@ -1,0 +1,8 @@
+*.db
+*.o
+*.exe
+*.out
+*.a
+*.so
+*.swp
+Debug/
